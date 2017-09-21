@@ -1,3 +1,4 @@
 // write your code below!
-if (false) {
-  console.log("This 
+if (5 > 2) {
+  console.log("5 is greater than 2")
+}
