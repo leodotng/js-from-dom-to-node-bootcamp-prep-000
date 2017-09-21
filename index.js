@@ -1,11 +1,20 @@
 // write your code below!
-var dog = "thirsty"
 
+var dog = "cuddly"
+ 
 if (dog === "hungry") {
   console.log("Refilling food bowl.")
+ 
 } else if (dog === "thirsty") {
   console.log("Refilling water bowl.")
-} else {
+ 
+} else if (dog === "playful") {
+  console.log("Playing tug-of-war.")
+ 
+} else if (dog === "cuddly") {
+  console.log("Snuggling.")
+ 
+} else { 
   console.log("Reading newspaper.")
 }
 
@@ -13,7 +22,15 @@ if (dog === "hungry") {
 
 
 
-
+// var dog = "thirsty"
+// 
+// if (dog === "hungry") {
+//   console.log("Refilling food bowl.")
+// } else if (dog === "thirsty") {
+//   console.log("Refilling water bowl.")
+// } else {
+//   console.log("Reading newspaper.")
+// }
 
 
 // if (6 + 3 === 9) {
@@ -27,11 +44,9 @@ if (dog === "hungry") {
 
 
 // var dog = "satisfied"
-// 
+//
 // if (dog === "hungry") {
 //   console.log("Refilling food bowl.")
 // } else {
 //   console.log("Reading newspaper.")
 // }
-
-
